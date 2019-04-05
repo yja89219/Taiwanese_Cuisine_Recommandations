@@ -6,6 +6,7 @@ The project is the final project of III (Institute of Information Industry) BigD
 <ol>
   <li>Data Colleting: <b>Python</b> (Web Crawler Libraries: Dcard Spider & PTTLibrary)</li>
   <li>Data Cleaning: <b>Python</b> (NumPy and Pandas) & <b>R</b></li>
+  <li>Database: <b>MS SQL</b> or <b>MySQL</b></li>
   <li>BigData Ecosystem: <b>Hadoop</b> & <b>Spark</b></li>
   <li>Data Visualization: <b>Python</b> (Matplotlib, Seaborn)</li>
   <li>Graphical User Interface: <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b></li>
