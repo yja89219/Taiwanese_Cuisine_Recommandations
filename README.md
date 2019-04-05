@@ -5,9 +5,9 @@ The project is the final project of III (Institute of Information Industry) BigD
 <p>The tools and steps of executing the project are as followling:</p>
 <ol>
   <li>Data Colleting: <b>Python</b> (Web Crawler Libraries: Dcard Spider & PTTLibrary)</li>
-  <li>Data Cleaning: Python (NumPy and Pandas) & R</li>
-  <li>BigData Ecosystem: Hadoop & Spark</li>
-  <li>Data Visualization: Python (Matplotlib, Seaborn)</li>
-  <li>Graphical User Interface: HTML, CSS, JavaScript</li>
+  <li>Data Cleaning: <b>Python</b> (NumPy and Pandas) & R</li>
+  <li>BigData Ecosystem: <b>Hadoop</b> & <b>Spark</b></li>
+  <li>Data Visualization: <b>Python</b> (Matplotlib, Seaborn)</li>
+  <li>Graphical User Interface: <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b></li>
 </ol>
 <p>The project will be presented on June 26th, 2019.<p>
