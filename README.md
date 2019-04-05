@@ -4,7 +4,7 @@ The project is the final project of III (Institute of Information Industry) BigD
 <h3>Statement of Purpose</h3>
 <p>The tools and steps of executing the project are as followling:</p>
 <ol>
-  <li>Data Colleting: Python (Web Crawler Libraries: Dcard Spider & PTTLibrary)</li>
+  <li>Data Colleting: <bold>Python</bold> (Web Crawler Libraries: Dcard Spider & PTTLibrary)</li>
   <li>Data Cleaning: Python (NumPy and Pandas) & R</li>
   <li>BigData Ecosystem: Hadoop & Spark</li>
   <li>Data Visualization: Python (Matplotlib, Seaborn)</li>
