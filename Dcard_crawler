@@ -1,0 +1,23 @@
+'''
+Credits for levirve  
+
+https://levirve.github.io/blog/2016/dcard-spider-python-package/
+https://pypi.org/project/dcard-spider/
+
+Dcard website: https://www.dcard.tw/f/food
+
+Open terminal to install dcard-spider: "pip install dcard-spider"
+
+The following codes use the Dcard library to crawl the data from the Dcard's Food forum,
+and export the result as a .json format file.
+'''
+
+import json
+from dcard import Dcard
+
+dcard = Dcard()
+forum = dcard.forums('food') # <= 改''內容可以指定要爬的版
+dcard_json = forum.get_metas(num=10000) # <= 改 (num=？) 內容可以指定要爬的篇數，下載後越新的文章排在越前面
+#export as the .json format
+with open('dcard_food01.json', 'w') as f: # <= 改‘’內容可以自訂存擋名稱
+    json.dump(dcard_json, f)
